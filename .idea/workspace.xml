@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="238b8e95-9e38-423c-8d5f-c79da99b811a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/env/mysql.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742514146141</updated>
       <workItem from="1742514148592" duration="3974000" />
-      <workItem from="1742805332499" duration="12578000" />
+      <workItem from="1742805332499" duration="13748000" />
     </task>
     <servers />
   </component>
